@@ -1,9 +1,5 @@
-<h1 align="center">
-    <img alt="ContextAPI" title="#ContextAPI" src=".images/header.png" width="100%" />
-</h1>
-
 <h4 align="center"> 
-	AluraCommerce
+	Commerce
 </h4>
 
 <p align="center">
@@ -12,11 +8,11 @@
   <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :information_source: O que é o AluraCommerce?
+## :information_source: O que é o Commerce?
 
 O AluraCommerce é uma aplicação feita em React Native que simula um e-commerce. A ideia é usar o Context API, do react, para ver a vantagem de se ter estados globais na aplicação. Também é usado o AsyncStorage e uma Web API para ter a persistência dos dados.
 
-Esse projeto é utilizado na formação base de React Native da plataforma da Alura.
+Esse projeto é utilizado na formação base de React Native.
 
 
 <h1 align="center">
